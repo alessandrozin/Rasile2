@@ -1,0 +1,26 @@
+<annotation>
+	<folder>resize</folder>
+	<filename>IMG_20191128_115642_BURST014.jpg</filename>
+	<path>C:\Users\ProvaTF\Desktop\resize\IMG_20191128_115642_BURST014.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>nera</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>259</xmin>
+			<ymin>218</ymin>
+			<xmax>407</xmax>
+			<ymax>367</ymax>
+		</bndbox>
+	</object>
+</annotation>
